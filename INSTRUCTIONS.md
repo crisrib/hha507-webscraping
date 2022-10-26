@@ -1,5 +1,4 @@
-# hha507-webscraping
-Assignment 7
+# Instructions
 
 1. Create a new github repo called 'web-scraping' 
 
